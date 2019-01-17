@@ -1,4 +1,4 @@
-import {calculateDistance} from "../js/exercise2";
+import {calculateDistance} from "../js/lib";
 
 test('should calculate distance', () => {
     const result = calculateDistance(40,7);
